@@ -20,6 +20,10 @@ akeyless-ui-webhook-builder -f path/to/your/recording.json
 
 The tool will guide you through the process of mapping the recorded steps to the necessary fields for password rotation.
 
+## Video
+
+![out.gif](out.gif)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
